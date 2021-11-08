@@ -67,7 +67,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I started my phD in Maths in 2019 but pandemic changed my life for good,
+        I started my PhD in Maths in 2019 but pandemic changed my life for good,
         since being able to work from home allowed me to explore all the new
         techlogies arising right now. In 2020 started my jorney in development,
         first making trading Bots for exanches like Binance using Artificial
