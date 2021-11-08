@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Paarka",
     description:
-      "This project was build for the Cardano Hackathon Hack-Cardano 2021. It is a video streaming  dApp and that mints NFT, we used as storage service STORJ, a decentralized plataform of storage, as well as IPFS for the image of the NFT. I set up the database-API of users as well as The Smart Contract for minting the NFT and the front-End of the App.",
+      "This project was build for the Cardano Hackathon Hack-Cardano 2021. It is a video streaming  dApp  that mints NFTs, we used as storage service STORJ, a decentralized plataform of storage, as well as IPFS for the image of the NFT. I set up the database-API of users as well as The Smart Contract for minting the NFT and the front-End of the App.",
     image: "/images/1.png",
     tags: ["React", "MongoDB", "Cardano", "Haskell", "NFT", "STORJ"],
     source: "https://hackcardano.cardstarter.io/project/paarka/",
