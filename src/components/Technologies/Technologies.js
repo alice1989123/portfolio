@@ -35,7 +35,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js and Next.js
+            React.js, Next.js , Tailwind, ChakraUI,Bootstrap
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -47,7 +47,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            NodeJs, MongoDb, Express
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -57,7 +57,9 @@ const Technologies = () => (
           <ListTitle>Blockchain</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Cardano Block-Chain smart contracts
+            Plutus smart contracts, Cardano Serialization Lib, Daap
+            Integrations, Metamask, Hard-Hat and Truffle, Web3.Js ,Solidity
+            Smart contracts.
           </ListParagraph>
         </ListContainer>
       </ListItem>

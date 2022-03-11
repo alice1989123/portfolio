@@ -18,13 +18,19 @@ const Hero = (props) => (
         Blockchain and Artificial intelligence Technologies are changing the
         world. Let's collaborate in this change.
       </SectionText>
+      <div style={{ display: "flex" }}>
+        <img style={{ width: 250 }} src={"/images/profile1.png"} alt="Avatar" />
 
-      {/* <img src={"/images/profile.png"} alt="Avatar" /> */}
-      <Button
-        onClick={() => (window.location = "mailto:aliciabasilo.ab@gmail.com")}
-      >
-        Contact me
-      </Button>
+        <div style={{ display: "flex", alignItems: "center", margin: "10px" }}>
+          <Button
+            onClick={() =>
+              (window.location = "mailto:aliciabasilo.ab@gmail.com")
+            }
+          >
+            Contact me
+          </Button>
+        </div>
+      </div>
     </LeftSection>
   </Section>
 );
