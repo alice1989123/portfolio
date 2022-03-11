@@ -69,11 +69,12 @@ const Timeline = () => {
       <SectionText>
         I started my PhD in Maths in 2019 but pandemic changed my life for good,
         since being able to work from home allowed me to explore all the new
-        techlogies arising right now. In 2020 started my jorney in development,
-        first making trading Bots for exanches like Binance using Artificial
-        Inteligence and Algoritmic trading. Then I starting learning more about
-        Block-Chain and Web development. I am a problem solving person who likes
-        to learn all the time, but also very empathetic and social.
+        technologies arising right now. In 2020 started my journey in
+        development, first making trading Bots for exchanges like Binance using
+        Artificial Intelligence and Algorithmic trading. Then I starting
+        learning more about Block-Chain and Web development. I am a problem
+        solving person who likes to learn all the time, but also very empathetic
+        and social.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
